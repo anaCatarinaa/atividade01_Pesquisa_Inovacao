@@ -1,0 +1,42 @@
+.div_a{
+
+    background-color: rgb(133, 205, 185);
+    width: 600px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div_b{
+
+    background-color: grey;
+    width: 50%;
+    height: 50vh;
+}
+
+.paragrafo_c{
+
+    color: rgb(24, 23, 21);
+    background-color: rgb(196, 196, 196);
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.div_d{
+
+    width: 100%;
+    height: 80vw;
+    background-color: rgb(155, 108, 158);
+    display: flex;
+    justify-content: last baseline
+    ;
+    align-items: center;
+}
+
+.div_e{
+
+    width: 50%;
+    height: 50%;
+    background-color: rgb(252, 198, 240);
+}
